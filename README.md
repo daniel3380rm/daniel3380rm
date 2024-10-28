@@ -43,10 +43,7 @@ I'm a software developer, specializing in building exceptional websites and mobi
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=daniel3380rm&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=daniel3380rm&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel3380rm&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel3380rm&hide_progress=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel3380rm&show_icons=true&theme=radical)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=daniel3380rm&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
