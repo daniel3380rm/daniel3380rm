@@ -40,7 +40,6 @@ I'm a software developer, specializing in building exceptional websites and mobi
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrgarciadev&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
 </a> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daniel3380rm)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=daniel3380rm&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -49,9 +48,6 @@ I'm a software developer, specializing in building exceptional websites and mobi
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=daniel3380rm&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=daniel3380rm&icon=5&color=10)](https://visitcount.itsvg.in)
